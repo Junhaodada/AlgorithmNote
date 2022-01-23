@@ -9,9 +9,9 @@
         ""
       ],
       "stopAtEntry": false,
-      "cwd": "c:/Users/HP/Desktop/ZiShu/chap4/4.1",
+      "cwd": "f:/project/MyProject/AlgorithmNote/chap4/4.1",
       "environment": [],
-      "program": "c:/Users/HP/Desktop/ZiShu/chap4/4.1/build/Debug/outDebug",
+      "program": "f:/project/MyProject/AlgorithmNote/chap4/4.1/build/Debug/outDebug",
       "internalConsoleOptions": "openOnSessionStart",
       "MIMode": "gdb",
       "miDebuggerPath": "C:/mingw64/bin/gdb.exe",
