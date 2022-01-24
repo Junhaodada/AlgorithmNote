@@ -20,10 +20,11 @@ void test(int A[], int n)
 {
     for (int i = 1; i < n; i++)
     {
-        int temp = A[i], j = i;
+        int j = i, temp = A[i];
         while (j > 0 && temp < A[j - 1])
         {
             A[j] = A[j - 1];
+            j--;
         }
         A[j] = temp;
     }
